@@ -1,13 +1,13 @@
 {
     "name": "zein-jayantara/barang",
-    "description": "Demo-package to show time",
+	"license": "MIT",
     "authors": [
         {
             "name": "Jalin Barang",
             "email": "zein@jayantara.co.id"
         }
     ],
-	"minimum-stability": "dev",
+	"minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
