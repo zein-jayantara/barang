@@ -1,5 +1,6 @@
 {
     "name": "zein-jayantara/barang",
+	"type": "library",
 	"license": "MIT",
     "authors": [
         {
