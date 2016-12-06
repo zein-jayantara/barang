@@ -1,0 +1,16 @@
+{
+    "name": "zein-jayantara/barang",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Jalin Barang",
+            "email": "zein@jayantara.co.id"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jalinmodule\\Barang\\": "src/"
+        }
+    }
+}
