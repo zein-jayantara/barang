@@ -7,7 +7,7 @@
             "email": "zein@jayantara.co.id"
         }
     ],
-	"minimum-stability": "stable",
+	"version": "1.0.0",
     "require": {},
     "autoload": {
         "psr-4": {
