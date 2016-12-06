@@ -11,18 +11,8 @@ Testing module barang
     "require": {
         ...
 
-        "jalinmodule/barang": "dev-master"
+        "zein-jayantara/barang": "1.*"
     },
-    ```
-    ```
-    "repositories":[
-        ...
-
-        {
-            "type":"git",
-            "url":"git@git.ip:jalinmodule/barang.git"
-        }
-    ],
     ```
     * Update composer
     
